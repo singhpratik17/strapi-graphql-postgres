@@ -1,3 +1,4 @@
 # Strapi application
 
-A quick description of your strapi application
+- `yarn develop` - Start dev server.
+Starts at http://localhost:1337.
