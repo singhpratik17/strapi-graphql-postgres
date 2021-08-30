@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "test2s",
+  "info": {
+    "name": "Test2"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "hours": {
+      "type": "integer"
+    },
+    "isActive": {
+      "type": "boolean"
+    }
+  }
+}
